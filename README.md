@@ -13,6 +13,7 @@ sudo apt install git cmake
 Clone git to pc (linux):
 ```
 git clone https://github.com/Vidicon/strategyPattern.git 
+cd strategyPattern
 ```
 
 Generate makefile using Cmake:
