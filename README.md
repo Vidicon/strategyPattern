@@ -2,6 +2,7 @@
 This is an exemple of strategyPattern implementation in c++ in the form of some animals.
 
 ## design
+![alt text](https://github.com/Vidicon/strategyPattern/raw/master/strategyPattern.png "uml class diagram")
 
 
 ## compile and run
